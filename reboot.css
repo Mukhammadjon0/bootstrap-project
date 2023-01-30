@@ -1,0 +1,42 @@
+.btn-primary,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #7f18e6;
+    border-color: #cda8f2;
+}
+
+.btn-primary:hover,
+.btn-primary:active {
+    background-color: #5e13b9;
+    border-color: #6917ca
+}
+
+.btn-primary:active:focus,
+.btn-primary:focus {
+    box-shadow: 0 0 0 .25rem rgba(199, 49, 253, 0.5);
+}
+
+.text-primary {
+    color: #6906df
+}
+
+.bg-primary {
+    color: #6d3bae;
+    background-color: #c6bdf6;
+}
+
+.border-primary {
+    border-color: #6906df;
+}
+
+.alert-primary {
+    color: #5700c5 l;
+    ;
+    background-color: #660fbd;
+    border-color: #d5abff;
+}
+
+.bg-question,
+.bg-feature {
+    background-color: #ece6f2;
+}
